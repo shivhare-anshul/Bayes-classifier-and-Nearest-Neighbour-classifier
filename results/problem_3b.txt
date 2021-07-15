@@ -1,0 +1,8 @@
+EM Algorithm
+Accuracy: 0.72
+
+MLE Gaussian
+Accuracy: 0.57
+
+Nearest Neighbour
+Accuracy: 0.68

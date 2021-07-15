@@ -1,0 +1,2 @@
+N, bayes, near_neigh
+100, 0.76, 0.69
